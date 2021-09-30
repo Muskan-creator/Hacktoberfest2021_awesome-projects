@@ -29,11 +29,12 @@ After you've added code, just come back to the README and add your name under co
 
 ## Pull Request Reviewers
 
-[Your name here](Your GitHub/Linkedin URL here)
+[Muskan ](https://github.com/Muskan-creator/
+https://www.linkedin.com/in/muskan-bansal-095601189)
 
 ## Contributors
 
 [Akash Srivastava]( https://github.com/Akashsri3bi  /  https://www.linkedin.com/in/akash-srivastava-b087261a7/ )
-[Samarthya Singh]( https://github.com/Samarthya2912 / https://www.linkedin.com/in/samarthya-singh-17a261152/ )
+
 
 ## All the best for **Hacktoberfest** :)
